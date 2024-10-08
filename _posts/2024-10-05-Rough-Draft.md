@@ -11,6 +11,8 @@ display_image: false  # change this to true to display the image below the banne
 
 ## Introduction
 
+:joy:
+
 In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the sports analytics market is valued at $3.78 billion projected to reach $22.13 billion by 2030, which is a staggering 28.7% CAGR, pulled from [AppInventiv](https://appinventiv.com/blog/data-analytics-in-sports-industry/).  This growth alone will provide jobs across the industry; marketing, stadium experience optimization, scouting, and countless other jobs built on data analytics.
 
 We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of general sporting events.
