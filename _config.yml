@@ -12,7 +12,7 @@ header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github: github.com/eladle21 ## required
+    github: eladle21 ## required
     twitter: 
     facebook: 
     email: 
