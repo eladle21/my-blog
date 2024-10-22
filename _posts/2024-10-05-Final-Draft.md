@@ -14,7 +14,7 @@ display_image: false  # change this to true to display the image below the banne
 In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the Sports Technology market is valued at $18.7 billion projected to reach $105.6 billion by 2033, which is a staggering 18.9% CAGR.  This growth will provide you with job openings across the industry; marketing, viewer experience, scouting, athletic performance, and countless others built on data analytics.
 
 <figure>
-	<img src="assets/img/Sports-Technology-Market-Size.jpeg" alt=""> 
+	<img src="assets/img/Sports-Technology-Market-Size.jpg" alt=""> 
 	<figcaption>Sports Technology Market Size - This chart shows the growth of the market from 2023 to 2033.  Chart created by Market.us</figcaption>
 </figure>
 
