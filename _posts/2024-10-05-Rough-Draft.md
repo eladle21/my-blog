@@ -18,10 +18,10 @@ In the past couple years we have seen data analytics and statistics revolutioniz
 	<figcaption>Sports Technology Market Size - This chart shows the growth of the market from 2023 to 2033.  Chart created by Market.us</figcaption>
 </figure>
 
-We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of general sporting events.
+We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of general sporting events.  This article is to teach you, a data scientist, how you can use your expertise to change the game.
 
 
-### How Sports Have Evolved Due to Analytics
+#### How Sports Have Evolved Due to Analytics
 
 Sports analytics has been instrumental in shaping the strategies of teams and athletes across different sports.  One case study of this has been popularized by the book and movie Moneyball.  The Oakland Athletics’ General Manager and statistician turned undervalued players in terms of the “eye-test” to valuable assets due to their performance in certain aspects of their respective games.  These aspects were able to be seen and utilized through data analysis.
 
@@ -45,7 +45,7 @@ Wearable technology has increased the ability trainers and team doctors have to 
 The utilization of data analysis by teams, and all their members, increase performance in almost every measurable field.  We no longer have to rely on instinct alone but can put numbers where our mouths are and have hunches backed up and realities changed by sports analytics.
 
 
-### Jobs Created by Sports Analytics:
+#### Jobs Created by Sports Analytics:
 
 With the increase usage of data by the sporting world, numerous careers have been created within the sports industry.  We see jobs such as data scientists and analysts to performance scientists and scouting analysts.  The demand for professionals with a grasp for statistics and machine learning has never been higher and has never been more valuable across this industry.
 
@@ -60,7 +60,7 @@ Here are a few key roles within sports analytics:
 - **Business Insight Analyst**: In this role, the focus is optimizing business operations. This can include ticket pricing strategies, merchandising, or even scheduling to increase profitability while still providing a unique consumer experience.
 
 
-### How You Can Use Sports Analytics in Your Life
+#### How You Can Use Sports Analytics in Your Life
 
 You don’t need to be a data scientist working for a professional sports team to get involved in sports analytics. While there is ample need for data scientists in this field, there are plenty of ways to integrate sports analytics into your daily life, whether you’re a student, amateur athlete, or fan.
 
@@ -71,8 +71,8 @@ You don’t need to be a data scientist working for a professional sports team t
 - **Real-World Data Science Projects**: If you’re a data science student or enthusiast, sports analytics provides a rich area for personal projects.  Data science projects within sports provide a data scientist with intriguing, real-world data that needs all the TLC of the data science process to become interpretable.  Many open-source datasets are available for sports like soccer, basketball, and baseball. You can use these to practice your skills in data cleaning, exploratory data analysis, and predictive modeling.
 
 
-### Call to Action
+#### Call to Action
 
 Sports analytics isn’t just for professionals; it’s something that anyone get involved in regardless of statistics or programming tool knowledge. Whether you’re interested in a career in the field or just want to enhance your understanding of the games you love, the intersection of sports and data is a wonderful place to appreciate statistics and sports at a new level.
 
-If you’re a data science enthusiast and need real-world data to manipulate, consider taking on a project using sports data. You can practice everything from data visualization to machine learning while working on something you’re passionate about. For sports enthusiasts, start exploring the numbers behind your favorite teams and players, it’ll change the way you watch the game.
+If you’re a data science enthusiast and need real-world data to manipulate, consider taking on a project using sports data. You can practice everything from data visualization to machine learning while working on something you’re passionate about. For sports enthusiasts, start exploring the numbers behind your favorite teams and players, it’ll change the way you watch the game and change the game for others.
