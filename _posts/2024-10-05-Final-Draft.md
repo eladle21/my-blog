@@ -61,7 +61,7 @@ The utilization of data analysis by teams, and all their members, increase perfo
 
 With the increase usage of data by the sporting world, numerous careers have been created within the sports industry.  We see jobs such as data scientists and analysts to performance scientists and scouting analysts.  The demand for professionals with a grasp for statistics and machine learning has never been higher and has never been more valuable across this industry.
 
-Here are a few key roles within sports analytics:
+Key roles within sports analytics include:
 
 - **Data Scientist/Analyst**: These individuals are responsible for gathering, cleaning, and analyzing various forms of sporting data to provide insights into team performance, player health, and game strategy.  This data can range from game statistics to recorded film.
 
@@ -76,17 +76,17 @@ The Medium wrote a wonderful article on getting into a job in sports analytics. 
 
 ### How You Can Use Sports Analytics in Your Life
 
-You don’t need to be a data scientist working for a professional sports team to get involved in sports analytics. While there is ample need for data scientists in this field, there are plenty of ways to integrate sports analytics into your daily life, whether you’re a student, amateur athlete, or fan.
+You don’t need to be working for a professional sports team to get involved in sports analytics. While there is ample need for data scientists in this field, there are plenty of ways to integrate sports analytics into your daily life as a student, amateur athlete, or fan.
 
 - **Fantasy Sports**: Fantasy leagues are a great, low-risk, way to apply sports analytics knowledge. By understanding advanced metrics and predictive models, you can simulate building a team and outperforming competitors.  Fantasy sports gives a recreational environment for you to transform sports analytics into measurable performance.
 
-- **Personal Fitness**: A more personal application of sports analytics would be in wearable fitness trackers and apps that can help you monitor your own performance. Your various goals and fitness level can be enhanced by basic data analysis.  Tracking your heart rate, steps, and intensity can give you valuable insights. Understanding the data behind your performance allows you to fine-tune your unique training to get better results.  For more information on this topic, Medium has written a wonderful article on [how data analysis can take your workouts to the next level](https://medium.com/@youniss/the-science-of-fitness-how-data-analysis-can-take-your-workouts-to-the-next-level-7fd846c0edd8).
+- **Personal Fitness**: A more personal application of sports analytics is in wearable fitness trackers and apps that help you monitor your own performance. Your various goals and fitness level can be enhanced by basic data analysis.  Tracking your heart rate, steps, and intensity can give you valuable insights. Understanding the data behind your performance allows you to fine-tune your unique training to see better results.  For more information on this topic, Medium has written a wonderful article on [how data analysis can take your workouts to the next level](https://medium.com/@youniss/the-science-of-fitness-how-data-analysis-can-take-your-workouts-to-the-next-level-7fd846c0edd8).
 
 - **Real-World Data Science Projects**: If you’re a data science student or enthusiast, sports analytics provides a rich area for personal projects.  Data science projects within sports provide a data scientist with intriguing, real-world data that needs all the TLC of the data science process to become interpretable.  Many open-source datasets are available for sports like soccer, basketball, and baseball. You can use these to practice your skills in data cleaning, exploratory data analysis, and predictive modeling.
 
 
 ### Call to Action
 
-Sports analytics isn’t just for professionals; it’s something that anyone get involved in regardless of statistics or programming tool knowledge. Whether you’re interested in a career in the field or just want to enhance your understanding of the games you love, the intersection of sports and data is a wonderful place to appreciate statistics and sports at a new level.
+Sports analytics isn’t just for professionals; it’s something that anyone get involved in regardless of statistics or programming tools knowledge. Whether you’re interested in a career in the field or just want to enhance your understanding of the games you love, the intersection of sports and data is a wonderful place to appreciate statistics and sports at a new level.
 
 If you’re a data science enthusiast and need real-world data to manipulate, consider taking on a project using sports data. You can practice everything from data visualization to machine learning while working on something you’re passionate about. For sports enthusiasts, start exploring the numbers behind your favorite teams and players, it’ll change the way you watch the game and change the game for others.
