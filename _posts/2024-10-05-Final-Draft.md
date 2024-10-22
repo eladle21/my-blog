@@ -34,7 +34,7 @@ Other sports have followed suit.  From basketball to soccer to American football
 The consumer experience has been heightened by data analytics, as seen in NFL games streamed by Amazon Prime.  In game stats are shown live as watchers admire peak human performance.  We get insight into how difficult different catches and throws really are as a “Catch Probability” is shown live as a quarterback releases the ball from his fingers.
 
 <figure>
-	<img src="https://eladle21.github.io/my-blog/assets/img/Completion_Overview.png" alt="" style="width:500px;">
+	<img src="https://eladle21.github.io/my-blog/assets/img/Completion_Overview.png" alt="" style="width:600px;">
 	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.  Pulled from the official NFL Youtube channel.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The consumer experience has been heightened by data analytics, as seen in NFL ga
 Wearable technology has increased the ability trainers and team doctors have to care for their teams.  These technologies allow us to see strengths and weaknesses of a player’s body, metrics used to track their physical activity, and how their body reacts to different stressors.  This information greatly aids in reducing injuries, improving recovery times, and increasing athletes’ longevity in their careers.
 
 <figure>
-	<img src="https://eladle21.github.io/my-blog/assets/img/wearable_tech.jpg" alt="" style="width:700px;"> 
+	<img src="https://eladle21.github.io/my-blog/assets/img/wearable_tech.jpg" alt="" style="width:600px;"> 
 	<figcaption>Wearable Tech - This image shows professional footballers utilizing wearable technology to enhance their physical and team performances.  Pulled from DarkHorse LinkedIn.</figcaption>
 </figure>
 
