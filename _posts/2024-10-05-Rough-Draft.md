@@ -25,12 +25,12 @@ Other sports have followed suit.  From basketball to soccer to American football
 The consumer experience has been heightened by data analytics, as seen in NFL games streamed by Amazon Prime.  In game stats are shown live as watchers admire peak human performance.  We get insight into how difficult different catches and throws really are as a “Catch Probability” is shown live as a quarterback releases the ball from his fingers.
 
 <figure>
-	<img src="Completion_Overview.jpg" alt=""> 
+	<img src="Completion_Overview.png" alt=""> 
 	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.</figcaption>
 </figure>
 
 <figure>
-	<img src="Completion_Probability.jpg" alt=""> 
+	<img src="Completion_Probability.png" alt=""> 
 	<figcaption>Completion Probability - This graphic shows an in-game example of completion probability.</figcaption>
 </figure>
 
