@@ -11,7 +11,12 @@ display_image: false  # change this to true to display the image below the banne
 
 ## Introduction
 
-In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the sports analytics market is valued at $3.78 billion projected to reach $22.13 billion by 2030, which is a staggering 28.7% CAGR, pulled from [AppInventiv](https://appinventiv.com/blog/data-analytics-in-sports-industry/).  This growth alone will provide jobs across the industry; marketing, stadium experience optimization, scouting, and countless other jobs built on data analytics.
+In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the Sports Technology market is valued at $18.7 billion projected to reach $105.6 billion by 2033, which is a staggering 18.9% CAGR.  This growth alone will provide jobs across the industry; marketing, stadium experience optimization, scouting, and countless other jobs built on data analytics.
+
+<figure>
+	<img src="assets/img/Sports-Technology-Market-Size.jpeg" alt=""> 
+	<figcaption>Sports Technology Market Size - This chart shows the growth of the market from 2023 to 2033.  Chart created by Market.us</figcaption>
+</figure>
 
 We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of general sporting events.
 
@@ -25,13 +30,13 @@ Other sports have followed suit.  From basketball to soccer to American football
 The consumer experience has been heightened by data analytics, as seen in NFL games streamed by Amazon Prime.  In game stats are shown live as watchers admire peak human performance.  We get insight into how difficult different catches and throws really are as a “Catch Probability” is shown live as a quarterback releases the ball from his fingers.
 
 <figure>
-	<img src="assets/img/Completion_Overview.png" alt="Graphic showing completion percentage in-game">
+	<img src="assets/img/Completion_Overview.png" alt="">
 	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.</figcaption>
 </figure>
 
 
 <figure>
-	<img src="Completion_Probability.png" alt=""> 
+	<img src="assets/img/Completion_Probability.png" alt=""> 
 	<figcaption>Completion Probability - This graphic shows an in-game example of completion probability.</figcaption>
 </figure>
 
@@ -61,7 +66,7 @@ You don’t need to be a data scientist working for a professional sports team t
 
 - **Fantasy Sports**: Fantasy leagues are a great, low-risk, way to apply sports analytics knowledge. By understanding advanced metrics and predictive models, you can simulate building a team and outperforming competitors.  Fantasy sports gives a recreational environment for you to transform sports analytics into measurable performance.
 
-- **Personal Fitness**: A more personal application of sports analytics would be in wearable fitness trackers and apps that can help you monitor your own performance. Your various goals and fitness level can be enhanced by basic data analysis.  Tracking your heart rate, steps, and intensity can give you valuable insights. Understanding the data behind your performance allows you to fine-tune your unique training to get better results.
+- **Personal Fitness**: A more personal application of sports analytics would be in wearable fitness trackers and apps that can help you monitor your own performance. Your various goals and fitness level can be enhanced by basic data analysis.  Tracking your heart rate, steps, and intensity can give you valuable insights. Understanding the data behind your performance allows you to fine-tune your unique training to get better results.  For more information on this topic, Medium has written a wonderful article on [how data analysis can take your workouts to the next level](https://medium.com/@youniss/the-science-of-fitness-how-data-analysis-can-take-your-workouts-to-the-next-level-7fd846c0edd8).
 
 - **Real-World Data Science Projects**: If you’re a data science student or enthusiast, sports analytics provides a rich area for personal projects.  Data science projects within sports provide a data scientist with intriguing, real-world data that needs all the TLC of the data science process to become interpretable.  Many open-source datasets are available for sports like soccer, basketball, and baseball. You can use these to practice your skills in data cleaning, exploratory data analysis, and predictive modeling.
 
