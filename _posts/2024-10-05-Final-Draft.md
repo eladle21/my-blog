@@ -6,26 +6,30 @@ description: A look into how the intersection between Sports and Data Analysis a
 image: "/assets/img/sports_header.jpg"
 display_image: false  # change this to true to display the image below the banner 
 ---
-<p class="intro"><span class="dropcap">I</span>n this post, we’ll dive into the world of sports analytics, looking at how it has impacted the growth of sports, the careers it has created, and ways you can incorporate it into your own life.  Whether you’re a data science student, an aspiring analyst, or just a sports fan looking to understand the numbers behind the game.</p>
+<p class="intro"><span class="dropcap">I</span>n this post, we’ll dive into the world of sports analytics, looking at how it has impacted the growth of sports, the careers it has created, and ways you can incorporate it into your own life.  As a data scientist, this is how you can provide value to this ever-growing market in value and experience.</p>
 
 
 ## Introduction
 
-In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the Sports Technology market is valued at $18.7 billion projected to reach $105.6 billion by 2033, which is a staggering 18.9% CAGR.  This growth alone will provide jobs across the industry; marketing, stadium experience optimization, scouting, and countless other jobs built on data analytics.
+In the past couple years we have seen data analytics and statistics revolutionize various professional fields, of which the sporting world is no exception.  As of 2023 the Sports Technology market is valued at $18.7 billion projected to reach $105.6 billion by 2033, which is a staggering 18.9% CAGR.  This growth will provide you with job openings across the industry; marketing, viewer experience, scouting, athletic performance, and countless others built on data analytics.
 
 <figure>
 	<img src="assets/img/Sports-Technology-Market-Size.jpeg" alt=""> 
 	<figcaption>Sports Technology Market Size - This chart shows the growth of the market from 2023 to 2033.  Chart created by Market.us</figcaption>
 </figure>
 
-We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of general sporting events.  This article is to teach you, a data scientist, how you can use your expertise to change the game.
+We have seen the sporting world transform from a gut-feeling and “eye test” industry to one fueled by numbers.  Decisions made from the front office to the courts or fields have been transformed and magnified by the power of data analytics.  Teams can better scout, prepare for opponents, minimize injuries, and maximize revenue for their venues.  These transformations effect the players lives, their families, those who work within the industry, and the general consumer of sporting events.  This article is to teach you, a data scientist, how you can use your expertise to change the game.
 
 
 ### How Sports Have Evolved Due to Analytics
 
-Sports analytics has been instrumental in shaping the strategies of teams and athletes across different sports.  One case study of this has been popularized by the book and movie Moneyball.  The Oakland Athletics’ General Manager and statistician turned undervalued players in terms of the “eye-test” to valuable assets due to their performance in certain aspects of their respective games.  These aspects were able to be seen and utilized through data analysis.
+Sports analytics have been instrumental in shaping the strategies of teams and athletes across different sports.  One case study of this has been popularized by the book and movie Moneyball.  The Oakland Athletics’ General Manager and statistician, Billy Beane, turned undervalued players in terms of the “eye-test” to valuable assets due to their performance in certain aspects of their respective games.  These aspects were able to be seen and utilized through data analysis.
 
-Other sports have followed suit.  From basketball to soccer to American football we see professional and recreational sports evolving due to insights provided by data analysis.  In basketball, we see the ability to compare players deepened by the creation of new metrics.  Historically we had few and limited metrics to analyze players like points, rebounds and assists per game.  Now we have advanced metrics such as Player Efficiency Rating (PER) and Effective Field Goal Percentage (eFG%) which provide coaches, scouts, and opposing teams’ unique insight into a given player’s capabilities.
+##### National Basketball Association
+
+Other sports have followed suit.  From basketball to soccer to American football we see professional and recreational sports evolving due to insights provided by data analysis.  In basketball, we see the ability to compare players deepened by the creation of new metrics.  Historically we had few and limited metrics to analyze players in points, rebounds and assists per game.  Now we have advanced metrics such as Player Efficiency Rating (PER) and Effective Field Goal Percentage (eFG%) which provide coaches, scouts, and opposing teams’ unique insight into a given player’s capabilities.
+
+##### National Football League
 
 The consumer experience has been heightened by data analytics, as seen in NFL games streamed by Amazon Prime.  In game stats are shown live as watchers admire peak human performance.  We get insight into how difficult different catches and throws really are as a “Catch Probability” is shown live as a quarterback releases the ball from his fingers.
 
@@ -34,13 +38,21 @@ The consumer experience has been heightened by data analytics, as seen in NFL ga
 	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.</figcaption>
 </figure>
 
-
 <figure>
 	<img src="assets/img/Completion_Probability.png" alt=""> 
 	<figcaption>Completion Probability - This graphic shows an in-game example of completion probability.</figcaption>
 </figure>
 
+##### Wearable Tech
+
 Wearable technology has increased the ability trainers and team doctors have to care for their teams.  These technologies allow us to see strengths and weaknesses of a player’s body, metrics used to track their physical activity, and how their body reacts to different stressors.  This information greatly aids in reducing injuries, improving recovery times, and increasing athletes’ longevity in their careers.
+
+<figure>
+	<img src="assets/img/wearable_tech.jpg" alt=""> 
+	<figcaption>Wearable Tech - This image shows professional footballers utilizing wearable technology to enhance their physical and team performances.</figcaption>
+</figure>
+
+
 
 The utilization of data analysis by teams, and all their members, increase performance in almost every measurable field.  We no longer have to rely on instinct alone but can put numbers where our mouths are and have hunches backed up and realities changed by sports analytics.
 
