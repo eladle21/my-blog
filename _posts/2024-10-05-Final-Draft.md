@@ -35,12 +35,12 @@ The consumer experience has been heightened by data analytics, as seen in NFL ga
 
 <figure>
 	<img src="https://eladle21.github.io/my-blog/assets/img/Completion_Overview.png" alt="">
-	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.</figcaption>
+	<figcaption>Completion Overview - This graphic explains the implementation of completion percentage in-game.  Pulled from the official NFL Youtube channel.</figcaption>
 </figure>
 
 <figure>
 	<img src="https://eladle21.github.io/my-blog/assets/img/Completion_Probability.png" alt=""> 
-	<figcaption>Completion Probability - This graphic shows an in-game example of completion probability.</figcaption>
+	<figcaption>Completion Probability - This graphic shows an in-game example of completion probability.  Pulled from the official NFL Youtube channel.</figcaption>
 </figure>
 
 ##### Wearable Tech
@@ -49,7 +49,7 @@ Wearable technology has increased the ability trainers and team doctors have to 
 
 <figure>
 	<img src="https://eladle21.github.io/my-blog/assets/img/wearable_tech.jpg" alt=""> 
-	<figcaption>Wearable Tech - This image shows professional footballers utilizing wearable technology to enhance their physical and team performances.</figcaption>
+	<figcaption>Wearable Tech - This image shows professional footballers utilizing wearable technology to enhance their physical and team performances.  Pulled from DarkHorse LinkedIn.</figcaption>
 </figure>
 
 
