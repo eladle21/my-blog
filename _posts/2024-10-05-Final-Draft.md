@@ -59,6 +59,8 @@ Here are a few key roles within sports analytics:
 
 - **Business Insight Analyst**: In this role, the focus is optimizing business operations. This can include ticket pricing strategies, merchandising, or even scheduling to increase profitability while still providing a unique consumer experience.
 
+The Medium wrote a wonderful article on getting into a job in sports analytics.  If you want a detailed guide of how to do so, read the following on [getting into sports analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be).
+
 
 ### How You Can Use Sports Analytics in Your Life
 
