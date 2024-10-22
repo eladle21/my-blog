@@ -2,8 +2,8 @@
 layout: post
 title:  "Revolutionizing the Game: Evolving Sports through Data Analysis"
 date: 2024-10-05
-description: A look into the intersection between Sports and Data Analysis.   
-image: "/assets/img/image5.jpg"
+description: A look into how the intersection between Sports and Data Analysis and elevate your game.   
+image: "/assets/img/sports_header.jpg"
 display_image: false  # change this to true to display the image below the banner 
 ---
 <p class="intro"><span class="dropcap">I</span>n this post, we’ll dive into the world of sports analytics, looking at how it has impacted the growth of sports, the careers it has created, and ways you can incorporate it into your own life.  Whether you’re a data science student, an aspiring analyst, or just a sports fan looking to understand the numbers behind the game.</p>
